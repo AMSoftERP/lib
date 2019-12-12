@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 12 14:32:57 BRT 2019
+http\://www.autocomsistemas.com.br\:8081/nexus/content/repositories/autocom/.error=
+http\://www.autocomsistemas.com.br\:8081/nexus/content/repositories/autocom/.lastUpdated=1560360777293
+https\://repo.maven.apache.org/maven2/.lastUpdated=1560360777863
+http\://repository.primefaces.org/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1560360776913
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://repository.primefaces.org/.lastUpdated=1560360776291

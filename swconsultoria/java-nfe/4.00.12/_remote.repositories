@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 27 10:29:40 BRT 2019
+java-nfe-4.00.12.jar>central=
+java-nfe-4.00.12-sources.jar>central=
+java-nfe-4.00.12-javadoc.jar>central=
+java-nfe-4.00.12.pom>central=
