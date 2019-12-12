@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 20 16:44:10 BRT 2019
+http\://www.autocomsistemas.com.br\:8081/nexus/content/repositories/autocom/.error=
+http\://www.autocomsistemas.com.br\:8081/nexus/content/repositories/autocom/.lastUpdated=1558380935135
+@default-chronosinfo-http\://66.70.177.7\:8081/repository/chronos/.lastUpdated=1558381450604
+http\://repository.primefaces.org/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1558380934985
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://66.70.177.7\:8081/repository/chronos/.error=Could not transfer artifact com.outjected\:simple-email\:jar\:0.2.5-SNAPSHOT from/to chronosinfo (http\://66.70.177.7\:8081/repository/chronos/)\: Failed to transfer http\://66.70.177.7\:8081/repository/chronos/com/outjected/simple-email/0.2.5-SNAPSHOT/simple-email-0.2.5-SNAPSHOT.jar. Error code 400, Repository version policy\: RELEASE does not allow version\: 0.2.5-SNAPSHOT
+http\://repository.primefaces.org/.lastUpdated=1558380931435
